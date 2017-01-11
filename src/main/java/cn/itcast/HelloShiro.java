@@ -1,4 +1,4 @@
-package com.yanle;
+package cn.itcast;
 
 /**
  * 测试类
